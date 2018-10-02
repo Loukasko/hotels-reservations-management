@@ -3,8 +3,8 @@
 Simple data structures used for comparing Insert-Search-Delete of nodes speed . 
 
 ## Features 
-1.Load Hotels and Reservations from csvfile
-2.Save new Hotels and new Reservations to csvfile
+*1.Load Hotels and Reservations from csvfile
+*2.Save new Hotels and new Reservations to csvfile
 3.Search and Display a Hotel by id 
   3.1 Red black tree search
   3.2 Linear search
